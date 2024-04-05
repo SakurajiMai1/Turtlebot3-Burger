@@ -1,0 +1,3 @@
+[console_scripts]
+follow_me_node = follow_me_package.follow_me_node:main
+

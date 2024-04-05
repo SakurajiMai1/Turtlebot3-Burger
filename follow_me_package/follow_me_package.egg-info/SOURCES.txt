@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+follow_me_package/__init__.py
+follow_me_package/follow_me_node.py
+follow_me_package.egg-info/PKG-INFO
+follow_me_package.egg-info/SOURCES.txt
+follow_me_package.egg-info/dependency_links.txt
+follow_me_package.egg-info/entry_points.txt
+follow_me_package.egg-info/requires.txt
+follow_me_package.egg-info/top_level.txt
+follow_me_package.egg-info/zip-safe
+resource/follow_me_package
